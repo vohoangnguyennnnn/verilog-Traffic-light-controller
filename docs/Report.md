@@ -11,7 +11,7 @@ The simulation confirms that the traffic light controller operates correctly acc
 The waveform below shows the clock, reset, and output signals.  
 It verifies correct state transitions, timing control, and mid-operation reset behavior.
 
-![Traffic Light Waveform](images/Waveform.png)
+![Simulation Waveform](images/Waveform.png)
 
 ---
 
@@ -23,7 +23,7 @@ The synthesized RTL schematic illustrates:
 - Combinational logic for next-state and output generation
 - Sequential registers for state and counter storage
 
-![Traffic Light RTL Schematic](images/schematic.png)
+![RTL Schematic](images/Schematic.png)
 
 ---
 
