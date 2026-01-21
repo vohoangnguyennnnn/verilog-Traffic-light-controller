@@ -23,6 +23,18 @@ The design flow follows standard **RTL → Simulation → Verification** methodo
 
 ---
 
+## Design Flow
+
+Specification → FSM Modeling → RTL Coding → Testbench Verification → Simulation → Documentation
+
+---
+
+## Why This Project
+
+This project reflects a typical RTL front-end workflow and demonstrates the ability to design, simulate, and verify a sequential FSM-based digital system.
+
+---
+
 ## Design Description
 
 - **FSM Type**: Moore Finite State Machine  
