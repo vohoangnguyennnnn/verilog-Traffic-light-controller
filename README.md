@@ -19,7 +19,6 @@ The design flow follows standard **RTL → Simulation → Verification** methodo
 - Practice **FSM-based RTL design** in Verilog
 - Understand **sequential logic** and state transitions
 - Perform **functional simulation and verification**
-- Organize a clean **hardware design GitHub repository**
 
 ---
 
